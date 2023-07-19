@@ -1,0 +1,3 @@
+## IDF Component Manager Manifest File
+dependencies:
+  bdc_motor: "^0.1.0"
